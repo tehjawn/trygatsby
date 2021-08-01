@@ -1,3 +1,9 @@
+<!-- @tehjawn -->
+
+Hello! This is a test Gatsby/React project being experimented on by me, John!
+
+---
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
